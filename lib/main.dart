@@ -20,6 +20,7 @@ class MyApp extends StatelessWidget {
            
             children: <Widget>[
             Container(
+              //This is container
               height: 100.0,
               padding: EdgeInsets.all(20.0),
               color: Colors.green,
