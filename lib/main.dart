@@ -12,6 +12,7 @@ class MyApp extends StatelessWidget {
         backgroundColor: Colors.blue,
         body: SafeArea(
           child: Row(
+            //Hello
            // crossAxisAlignment: CrossAxisAlignment.stretch,
            // mainAxisAlignment: MainAxisAlignment.end,
            // mainAxisSize: MainAxisSize.min,
